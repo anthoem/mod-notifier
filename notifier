@@ -1,7 +1,3 @@
-# mod-notifier
-Void Falls Moderator Notifier, on the whole group 
-- Full Coded by; kajo
-
 local Players = game:GetService("Players")
 local groupId = 693335996
 
